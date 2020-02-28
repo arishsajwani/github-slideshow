@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our Arish Sajwani slide!"
 ---
-This is arishsajwani's slide
+This is my aesomeslide  slide
 Use the left arrow to go back!
